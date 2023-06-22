@@ -19,7 +19,7 @@ Merhaba, ben Kağan! Front-end geliştiricisiyim,  GitHub profilimde hoş geldin
 Eğer benimle iletişime geçmek isterseniz, aşağıdaki yöntemleri kullanabilirsiniz:
 
 - E-posta: kagancoskun32@gmail.com
-- LinkedIn: [Profilim](https://www.linkedin.com/in/kagancoskun32/)
+- LinkedIn: [Profilim](https://www.linkedin.com/in/kagancoskun07/)
 
 ## Projeler
 
