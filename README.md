@@ -6,7 +6,7 @@
 
 # Hoş Geldiniz!
 
-Merhaba, ben Kağan! Front-end geliştiriciyim ve burada GitHub profilimde hoş geldin sayfasını görüntülüyorsunuz.
+Merhaba, ben Kağan! Front-end geliştiricisiyim,  GitHub profilimde hoş geldin.
 
 ## Hakkımda
 
