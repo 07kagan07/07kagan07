@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kağan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 👀 I’m software developer at Turkcell Group Company Atmosware
+- 🌱 I’m currently learning
 - 📫 How to reach me --> kagancoskun32@gmail.com
 
 
